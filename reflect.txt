@@ -1,0 +1,22 @@
+// Name: Farhan Sarang
+// Seneca Student ID: 172963217
+// Seneca email: fsarang2@myseneca.ca
+// Date of completion: 1 / 12 / 2023
+//
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+
+Today's Progress:
+- Explored C++ concepts: classes, inheritance, file handling.
+- Worked on Workstation & LineManager modules in C++.
+- Faced file reading challenges, resolved with debugging.
+- Used STL algorithms for efficient object operations.
+- Plan to improve move semantics and error handling.
+- Aim to enhance code readability and skills in C++.
+
+Reflection:
+Today's coding session was productive, focusing on C++ fundamentals and implementing modules. 
+Encountered file handling issues but solved them through careful debugging. Learning to use STL algorithms efficiently 
+for object operations was valuable. Looking forward to refining move semantics and error handling for better code quality. 
+Overall, feeling more confident and excited about advancing C++ skills!
